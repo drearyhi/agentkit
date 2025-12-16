@@ -22,6 +22,10 @@
 
 ## Table of Contents
 
+> ⚠️ **Fork notice:** This repository is a fork of the official `coinbase/agentkit`.  
+> Please refer to the upstream repository for the canonical implementation and latest updates.
+
+
 - [📖 Overview](#-overview)
 - [🚀 Quickstart](#-quickstart)
   - [Node.js](#nodejs)
